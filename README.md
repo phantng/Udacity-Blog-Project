@@ -4,6 +4,9 @@
 
 The motivation of this project is to explore a simple dataset with the aim of illustrating how a more general procedure, CRISP-DM, could be used to approach a data science project. 
 
+A link to the accompanying blog:
+- https://medium.com/@trongphan.ng/housing-data-a-closer-look-9d04a164a91
+
 ## Requirements
 
 Listed in requirements.txt. Not meeting the specific version is probably fine, but may break certain functions if using old versions of these libraries. 
